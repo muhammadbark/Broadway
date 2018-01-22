@@ -23,33 +23,56 @@ body {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  line-height: 200%;
 }
 
 
-#section2 h3 {
+.section23 h3 {
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
 }
 
 
-#section2 h5 {
+.section23 h5 {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
 }
 
 
-#section2 p {
+.section23 p {
   font-family: Helvetica;
   font-size: 14px;
 }
 
 
-h6 {
+#newyork {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   color: white;
   background-image: url("../images/building.png");
+}
+
+#footer {
+  background-color: dimgray;
+}
+
+#footer h6 {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  display: inline;
+}
+
+#footer ul li {
+  display: inline;
+  font-family: Helvetica;
+  color: white;
+}
+
+a {
+  color: white;
 }
